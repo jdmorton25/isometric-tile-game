@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+canvas {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    outline: 1px solid white;
+}
